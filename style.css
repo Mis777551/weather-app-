@@ -83,4 +83,7 @@ margin-top: 50px;
     text-align: left;
 }
 
-.c
+.column img{
+    width: 40px;
+    margin-right: 10px;
+}
