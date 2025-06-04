@@ -87,3 +87,8 @@ margin-top: 50px;
     width: 40px;
     margin-right: 10px;
 }
+
+.wind .humidity{
+    font-size: 28px;
+    margin-top: -6px;
+}
